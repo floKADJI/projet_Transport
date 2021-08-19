@@ -30,7 +30,7 @@ public class Vehicle {
 
     private Float purchasePrice;
 
-    private Date purchase_date;
+    private Date purchaseDate;
 
     private Double capaciteReservoir;
 
